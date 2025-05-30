@@ -1,0 +1,22 @@
+Accuracy Test File 
+
+1. KNN Accuracy: 87.23%
+2. Random Forest Accuracy: 89.36%
+3. Decision Tree Accuracy: 87.94%
+4. Logistic Regression Accuracy: 87.23%
+5. MLP Neural Network Accuracy: 88.65%
+6. Naive Bayes Accuracy: 46.81%
+7. Extra Trees Accuracy: 86.52%
+8. Gradient Boosting Accuracy: 86.52%
+9. AdaBoost Accuracy: 88.65%
+10.XGBoost Accuracy: 87.23%
+11. LightGBM Accuracy: 88.65%
+12. Ridge Classifier Accuracy: 87.94%
+13. Lasso Regression Accuracy: 87.94%
+14. SGD Classifier Accuracy: 87.23%
+15. Linear Discriminant Analysis Accuracy: 85.11%
+16. Quadratic Discriminant Analysis Accuracy: 46.81%
+17. Passive Aggressive Classifier Accuracy: 86.52%
+18. Bagging Classifier Accuracy: 85.82%
+19. Voting Classifier Accuracy: 87.94%
+20. CatBoost Accuracy: 88.65%
